@@ -59,7 +59,7 @@ class SearchField: UIView {
     private func setupTextField() {
         ring.tintColor = UIColor.otpLightColor
         textField.attributedPlaceholder = NSAttributedString(
-            string: "Authenticator",
+            string: "Proxy Auth",
             attributes: [
                 .foregroundColor: UIColor.otpLightColor,
                 .font: UIFont.systemFont(ofSize: 16, weight: .light),

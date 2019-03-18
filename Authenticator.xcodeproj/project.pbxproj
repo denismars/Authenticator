@@ -591,7 +591,7 @@
 				ORGANIZATIONNAME = "Matt Rubin";
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
-						DevelopmentTeam = WD7ETSN9J9;
+						DevelopmentTeam = AU9ZDUDBTM;
 						LastSwiftMigration = 0910;
 						ProvisioningStyle = Automatic;
 					};
@@ -762,9 +762,9 @@
 				BUNDLE_DISPLAY_NAME = "${PRODUCT_NAME} ∆";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 0;
-				DEVELOPMENT_TEAM = WD7ETSN9J9;
+				DEVELOPMENT_TEAM = AU9ZDUDBTM;
 				INFOPLIST_FILE = Authenticator/Resources/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = me.mattrubin.authenticator.dev;
+				PRODUCT_BUNDLE_IDENTIFIER = co.proxy.authenticator;
 				PRODUCT_NAME = Authenticator;
 				SWIFT_TREAT_WARNINGS_AS_ERRORS = NO;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -780,9 +780,9 @@
 				BUNDLE_DISPLAY_NAME = "${PRODUCT_NAME}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 0;
-				DEVELOPMENT_TEAM = WD7ETSN9J9;
+				DEVELOPMENT_TEAM = AU9ZDUDBTM;
 				INFOPLIST_FILE = Authenticator/Resources/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = me.mattrubin.authenticator;
+				PRODUCT_BUNDLE_IDENTIFIER = co.proxy.authenticator;
 				PRODUCT_NAME = Authenticator;
 				SWIFT_TREAT_WARNINGS_AS_ERRORS = NO;
 				TARGETED_DEVICE_FAMILY = 1;
